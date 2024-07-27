@@ -15,7 +15,7 @@ Bem-vindo ao **Conversor de Moeda**, um aplicativo web simples que permite conve
 
 ## Visão Geral
 
-O Conversor de Moeda é uma aplicação desenvolvida com o objetivo de facilitar a conversão de valores entre diferentes moedas de forma rápida e precisa. Com uma interface amigável, o usuário pode selecionar as moedas de origem e destino e inserir o valor desejado para conversão.
+- O Conversor de Moeda é uma aplicação desenvolvida com o objetivo de facilitar a conversão de valores entre diferentes moedas de forma rápida e precisa. Com uma interface amigável, o usuário pode selecionar as moedas de origem e destino e inserir o valor desejado para conversão.
 
 ## Recursos
 
@@ -33,33 +33,16 @@ O Conversor de Moeda é uma aplicação desenvolvida com o objetivo de facilitar
 
 Para rodar o projeto localmente, siga os passos abaixo:
 
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-  
-2. Navegue até o diretório do projeto:
-
-  ```bash
-  cd seu-repositorio
-
-3. Instale as dependências
-
-  ```bash
-  npm install
-
-4. Inicie a aplicação:
-
-  ```bash
-  npm run dev
+```bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+cd seu-repositorio
+npm install
+npm run dev
 
 ## Como usar
 1. Selecione a moeda de origem e destino.
 2. Insira o valor que deseja converter.
 3. Veja o valor convertido em tempo real.
-
-## Exemplo de Uso
-Aqui está um exemplo de como o Conversor de Moeda funciona:
 
 ## Tecnologias Utilizadas
 - HTML5 e CSS3 para a estrutura e estilo da interface
@@ -67,7 +50,7 @@ Aqui está um exemplo de como o Conversor de Moeda funciona:
 - Exchange Rate API para obter as taxas de câmbio atuais
 
 ## Contribuições
-Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma ideia para melhorar o aplicativo, siga as etapas abaixo:
+- Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma ideia para melhorar o aplicativo, siga as etapas abaixo:
 
 1. Faça um fork do projeto.
 2. Crie uma nova branch (git checkout -b feature/nome-da-feature).
@@ -76,4 +59,4 @@ Contribuições são bem-vindas! Se você encontrar um bug ou tiver uma ideia pa
 5. Abra um Pull Request.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+- Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
