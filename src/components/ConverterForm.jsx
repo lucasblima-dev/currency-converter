@@ -22,7 +22,6 @@ const ConvertForm = () => {
       if (!response.ok) throw Error('Something went wrong!');
 
       const data = await response.json();
-      console.log(data);
       const rate = (data.conversion_rate * amount).toFixed(2);
       setResult(`${amount} ${fromCurrency} = ${rate} ${toCurrency}`);
     } catch (e) {
